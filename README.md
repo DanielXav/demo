@@ -2,6 +2,3 @@
 
 - Learning Github
 
-- Test
-
-- ...
